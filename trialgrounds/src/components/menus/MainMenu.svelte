@@ -48,6 +48,9 @@
           <li>
             <a href="/{$pageUrl.search}">all trials</a>
           </li>
+          <li>
+            <a href="/perf{$pageUrl.search}">all perfs</a>
+          </li>
         </ul>
       </nav>
       <div role="menu" aria-labelledby="menuTitle">
