@@ -1,6 +1,6 @@
 {
   "name": "actual-client-rect",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "gets an element's actual client rect with transform. ALPHA",
   "sideEffects": false,
   "main": "dist/cjs/getActualClientRect.js",
@@ -30,7 +30,6 @@
   ],
   "author": "Serrano Cirrus serrano@serranocirrus.com",
   "license": "MIT",
-
   "bugs": {
     "url": "https://github.com/serranocirrus/getActualClientRect/issues"
   },
