@@ -104,8 +104,8 @@ export type ACROptions = {
 
 All trial scenarios are defined in the /trialgrounds directory
 
-* The mobile safari configuration for Playwright has a decent number of false failures; any such trials are effectively disabled and tested manually.
-* The Playwright screenshots in the repo are created on Windows, and Playwright might not use the right configurations if run from another environment.
+- The mobile safari configuration for Playwright has a decent number of false failures; any such trials are effectively disabled and tested manually.
+- The Playwright screenshots in the repo are created on Windows, and Playwright might not use the right configurations if run from another environment.
 
 ```
 $ cd trialgrounds
@@ -117,8 +117,8 @@ $ npm run test
 
 Development is paused, and is unlikely to resume anytime soon, if ever. This was the roadmap prior to the pause:
 
-* optimization
-* maybe SVGs, canvases, and 3D libraries
+- optimization
+- maybe SVGs, canvases, and 3D libraries
 
 ## Limitations
 
@@ -129,3 +129,11 @@ Development is paused, and is unlikely to resume anytime soon, if ever. This was
     - Firefox v124 / Gecko -- will-change: filter
     - Safari v17.4 / Webkit -- will-change: filter | opacity
     - (Properties not yet supported by particular browsers omitted from their respective lists)
+
+# Contribute
+
+All contributions are greatly appreciated!
+
+- If you find a bug, please [file an issue](https://github.com/serranocirrus/getActualClientRect/issues)
+
+<3 Serrano

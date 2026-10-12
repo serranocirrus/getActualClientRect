@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anxpara/getActualClientRect.git"
+    "url": "git+https://github.com/serranocirrus/getActualClientRect.git"
   },
   "keywords": [
     "actual client rect",
@@ -28,16 +28,13 @@
     "getBoundingClientRect",
     "dom projection"
   ],
-  "author": "anxpara anx@anxpara.com",
+  "author": "Serrano Cirrus serrano@serranocirrus.com",
   "license": "MIT",
-  "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/anxpara"
-  },
+
   "bugs": {
-    "url": "https://github.com/anxpara/getActualClientRect/issues"
+    "url": "https://github.com/serranocirrus/getActualClientRect/issues"
   },
-  "homepage": "https://github.com/anxpara/getActualClientRect#readme",
+  "homepage": "https://github.com/serranocirrus/getActualClientRect#readme",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.0.1",
     "pm2": "^5.2.0",
